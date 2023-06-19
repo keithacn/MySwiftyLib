@@ -46,6 +46,7 @@
 		9DA1D3C82A400A9200E8E112 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9DA1D3CC2A4020EB00E8E112 /* MySwiftyLib.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySwiftyLib.swift; sourceTree = "<group>"; };
 		9DA1D3CE2A40381200E8E112 /* MySwiftyLib.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = MySwiftyLib.xctestplan; sourceTree = "<group>"; };
+		9DA1D3CF2A403E0700E8E112 /* .travis.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = .travis.yml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		9DA1D3902A40084400E8E112 = {
 			isa = PBXGroup;
 			children = (
+				9DA1D3CF2A403E0700E8E112 /* .travis.yml */,
 				9DA1D3CE2A40381200E8E112 /* MySwiftyLib.xctestplan */,
 				9DA1D39C2A40084400E8E112 /* MySwiftyLib */,
 				9DA1D3A82A40084600E8E112 /* MySwiftyLibTests */,
