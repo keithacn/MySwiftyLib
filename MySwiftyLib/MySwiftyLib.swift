@@ -1,5 +1,9 @@
 
 public final class MySwiftyLib {
+    
+    public init() {
+        
+    }
 
     let name = "MySwiftyLib"
     
